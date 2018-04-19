@@ -1,2 +1,2 @@
 # 0_main_openSAP_report
-Main reporsitory for GIT WEBIDE demos
+Main reporsitory [opensap2](http://opensap.com) for GIT WEBIDE demos
